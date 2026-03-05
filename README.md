@@ -12,7 +12,7 @@ Hi, I'm Aaliyah R. Aliluran from DIT 1-1, a student from PUP Binan. <br>I wanna 
 ![](https://nirzak-streak-stats.vercel.app/?user=ayalovesirus&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayalovesirus&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote HEHE
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---

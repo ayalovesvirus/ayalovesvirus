@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Aaliyah R. Aliluran from DIT 1-1, a student from PUP Binan. <br>I wanna explore and learn more about coding and technology so that I can contribute on our Church website!  
+Hi, I'm Aaliyah R. Aliluran from DIT 1-1, a student from PUP Binan. <br>I wanna explore and learn more about coding and technology so that I can contribute on our Church website! I especially love fast cars, clean code, and a little bit of Lewis Hamilton :>
 
 
 ## 🌐 Socials:
